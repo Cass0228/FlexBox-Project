@@ -1,0 +1,44 @@
+body{display: flex;
+    flex-direction: column;
+ 
+  
+}
+header{background-color: blue;
+border: 1px solid black;
+flex-basis: 200px;
+margin-top: 25px;
+margin-bottom: 15px;
+padding: 25px;
+}
+
+
+section{ border: 1px solid black
+margin-bottom: 15px;
+display: flex;
+height: 180px;
+background-color: brown;
+
+}
+footer{ background-color: green;
+    border: 1px solid black;
+flex-basis: 200px;
+margin-top: 20px;
+
+
+}
+
+
+
+aside{
+    border: 1px solid black;
+    flex-basis: 50%;
+
+}
+
+
+    
+
+main{border: 1px solid black;
+    flex-basis: 50%;
+    
+}
